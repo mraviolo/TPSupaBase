@@ -48,7 +48,10 @@ npm run dev
 - You must set up your own Supabase project and configure the environment variables for authentication to work
 - For production, ensure you properly secure your environment variables
 - Consider implementing additional features like password reset, email verification, and profile management
+-
+- ![Screenshot from 2025-06-12 10-31-03](https://github.com/user-attachments/assets/4a2ee00a-6b8e-40f4-b473-0a72db883a71)
 
 
-file:///home/mateo/Pictures/Screenshots/Screenshot%20from%202025-06-12%2010-31-03.png
+
+
 
