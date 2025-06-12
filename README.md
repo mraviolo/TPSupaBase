@@ -43,33 +43,12 @@ npm run dev
 
 5. Open your browser and navigate to `http://localhost:5173`
 
-## Technologies Used
-
-- React
-- TypeScript
-- React Router
-- Vite
-- Supabase (Authentication & Backend)
-
-## Project Structure
-
-```
-src/
-  ├── lib/
-  │   └── supabaseClient.ts
-  ├── pages/
-  │   ├── Home.tsx
-  │   ├── Login.tsx
-  │   └── Signup.tsx
-  ├── App.tsx
-  ├── App.css
-  ├── config.ts
-  ├── main.tsx
-  └── index.css
-```
-
 ## Notes
 
 - You must set up your own Supabase project and configure the environment variables for authentication to work
 - For production, ensure you properly secure your environment variables
 - Consider implementing additional features like password reset, email verification, and profile management
+
+
+file:///home/mateo/Pictures/Screenshots/Screenshot%20from%202025-06-12%2010-31-03.png
+
